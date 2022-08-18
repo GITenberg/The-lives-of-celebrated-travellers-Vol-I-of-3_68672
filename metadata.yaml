@@ -1,0 +1,34 @@
+_repo: The-lives-of-celebrated-travellers-Vol-I-of-3_68672
+_version: 0.0.1
+creator:
+  author:
+    agent_name: St. John, James Augustus
+    aliases:
+    - Saint John, James Augustus
+    - John, J. A. St.
+    - John, James Augustus St.
+    - John, James
+    birthdate: 1795
+    deathdate: 1875
+    gutenberg_agent_id: '53328'
+    url: http://www.gutenberg.org/2009/agents/53328
+    wikipedia: https://en.wikipedia.org/wiki/James_Augustus_St._John
+description: ''
+gutenberg_issued: '2022-08-03'
+identifiers:
+  gutenberg: '68672'
+language: en
+pgterms:marc904: https://archive.org/details/livesofcelebrate01stjouoft
+pgterms:marc905: 20190403060246stjohn
+pgterms:marc906: '1832'
+pgterms:marc907: US
+production_note: Turgut Dincer and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :J. & J. Harper,1832.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The lives of celebrated travellers, Vol. I. (of 3)
+url: http://www.gutenberg.org/ebooks/68672
